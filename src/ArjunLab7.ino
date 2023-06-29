@@ -49,6 +49,6 @@ BLYNK_WRITE(V5)
 
     if (param.asInt() == 1)
     {
-        Blynk.logEvent("push_notifications", "Hey, Blynk push here!");
+        Blynk.logEvent("push_notifications", "Push!");
     }
 }

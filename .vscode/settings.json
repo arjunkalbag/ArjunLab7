@@ -4,5 +4,6 @@
     "files.associations": {
         "*.ino": "cpp"
     },
-    "particle.targetDevice": ""
+    "particle.targetDevice": "",
+    "C_Cpp.errorSquiggles": "disabled"
 }
